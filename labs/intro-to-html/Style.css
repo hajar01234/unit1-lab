@@ -1,0 +1,52 @@
+h1{
+    color: rgb(41, 41, 42);
+    background-color: rgb(203, 207, 209);
+}
+
+h2{
+    color: rgb(250, 250, 252);
+}
+
+.main{
+    background-color: rgb(203, 207, 209);
+    color: rgb(70, 70, 71);
+}
+#about-text {
+    border: 3px solid green;
+}
+
+#about-text {
+    border: 3px solid green;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+body {
+    background-color: #444444;
+    color: white;
+    border: 3px solid gray;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+}
+
+nav a {
+    color: green;
+}
+
+footer  a {
+    color: green;
+}
+footer {
+    color: rgb(3, 17, 3);
+    text-align: left;
+}
